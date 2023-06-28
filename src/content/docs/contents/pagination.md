@@ -1,5 +1,5 @@
 ---
-title: " Pagination"
+title: Pagination
 description: Lorem ipsum dolor sit amet - 2
 ---
 ## Design Guidelines
