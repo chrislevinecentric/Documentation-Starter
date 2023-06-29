@@ -2,19 +2,19 @@
 title: Accordions
 description: Lorem ipsum dolor sit amet - 2
 ---
-## Design Guidelines
-
 Accordions allow users to toggle between displaying and hiding content within a collapsible container. It's commonly used to manage information in a structured and space-efficient manner
 
+## Annotations 
 
+![](/accordion.svg)
+
+## Design Guidelines
 
 * This feature emphasizes key elements within a section and unveils additional content when users interact with the header portion of the container. 
 
 
 * By allowing users to toggle the visibility of information, it ensures that the design stays pertinent and aligned with their expectations. 
 * Prioritizing the scanning of essential details enhances processing efficiency while maintaining the ability to access supplementary information.
-
-
 
 ## When to use
 
