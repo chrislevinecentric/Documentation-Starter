@@ -2,17 +2,17 @@
 title: Modals
 description: Lorem ipsum dolor sit amet - 2
 ---
-## Design Guidelines
-
 Modals are interactive pop-ups reserved for situations which require immediate attention.
+
+![](/modal.svg)
+
+## Design Guidelines
 
 * Modals provide a means to input data or notify users on a specific page once an action has been triggered, demanding prompt attention.
 
 ## When to use
 
 * Utilize Modals to promptly collect user input while preventing interaction with the rest of the page.
-
-
 * Use Modals when the alert content and text exceed the capacity of a regular Toast or Pop-up notification.
 
 ## When to use something else
