@@ -1,12 +1,10 @@
 ---
 title: Radio Buttons
 ---
+![](/radio.svg)
+
 ## Design Guidelines
 
-* The placement of the Form Field Label can be either above the Radio group or to the left of it for languages that are read from left to right (LTR). However, in languages that are read from right to left (RTL), the Form Field Labels are aligned to the right of the Radio group.
-
-
-* For LTR languages, the Radio Labels are positioned to the right of the Radio Buttons. In contrast, for RTL languages, the Radio Labels are positioned to the left of the Radio Buttons.
 * You have the option to set one Radio Button in the group as the default selection. It is recommended to choose the default option that poses the least risk to the user or is commonly selected.
 * In cases where the user is allowed to not select any of the options, you should include a "None" option.
 * If the provided list of options does not cover all possible values within seven or fewer options, you should include a Radio Button labeled as "Other."
@@ -18,6 +16,4 @@ Use Radio Buttons when a user is only allowed to select 1 value from a list of 7
 ## When to use something else
 
 * Consider utilizing Checkboxes or a Select input when allowing a user to choose zero, one, or multiple values from a predetermined list containing seven options or fewer. 
-
-
 * In cases where the list size is either large or unknown, it is advisable to employ Prompts. Prompts offer search functionality and folder organization, enabling users to browse through available choices.
