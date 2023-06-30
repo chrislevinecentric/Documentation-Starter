@@ -3,6 +3,12 @@ title: Radio Buttons
 ---
 ![](/radio.svg)
 
+
+
+1. **Form Field Label:** Functions as a header.
+2. **Radio Button:** Radio Buttons are aligned close to its label or by itself in some cases.
+3. **Radio Button Label:** Radio Button Labels give information about what to select or unselect.
+
 ## Design Guidelines
 
 * You have the option to set one Radio Button in the group as the default selection. It is recommended to choose the default option that poses the least risk to the user or is commonly selected.
