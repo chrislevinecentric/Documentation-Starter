@@ -7,8 +7,6 @@ description: Lorem ipsum dolor sit amet - 2
 Tables are an efficient way of displaying sets of repeating data with the same structure.
 
 * Data Tables are designed to exhibit data that can be conveniently examined and compared.
-
-
 * In essence, every row within a Table symbolizes an item, and each individual cell in that row denotes an attribute of said item.
 * Consequently, all the cells within a specific column will share the same data type, such as dates, numbers, text, and so on.
 * Ideally, each cell should contain a single value, while the use of field sets is not recommended.
@@ -19,8 +17,6 @@ Tables are an efficient way of displaying sets of repeating data with the same s
 Use tables to allow users to:
 
 * Easily scan and compare data
-
-
 * View and edit data
 * Manipulate and navigate through a large amount of data
 * Preview data
@@ -28,7 +24,14 @@ Use tables to allow users to:
 ## When to use something else
 
 * You only have a small data set.
-
-
 * A more detailed amount of information needs to be displayed by default.
 * There is more than one piece of information within a cell.
+
+
+
+
+
+## Additional Information
+
+* Due to limited space in grids or tables, you can use abbreviations (including avg., hrs., or wk.), symbols (% for percent), and other shortened forms that you would not use elsewhere in the UI.
+* Use singular for column heading labels, such as Currency, Company, Organization instead of the plural format.
