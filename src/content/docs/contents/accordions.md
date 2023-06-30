@@ -24,3 +24,12 @@ Utilize an Accordion in situations where a substantial amount of information nee
 ## When to use something else
 
 Exercise caution when concealing vital information or adding an additional click for users who are expected to peruse all the content. It is possible that content concealed in a collapsed state may go unread or unnoticed by users right away.
+
+
+
+## Additional Info
+
+
+
+* Titles should be short and concise, yet long enough to explain what the user would expect to see when the content is expanded.
+* If titles must be long, make sure it doesn't wrap more than two lines.
