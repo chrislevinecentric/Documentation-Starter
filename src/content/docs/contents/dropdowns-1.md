@@ -8,6 +8,12 @@ Dropdown allows users to choose one option from a list of items in a Menu.
 
 ![](/dropdown.svg)
 
+1. **Label:** Title of the input.
+2. **Placeholder Text (Optional):** Placeholder text like “Menu” is typically displayed in the Dropdown. After the user makes a selection, the placeholder text is replaced with the user’s selection.
+3. **Icon:** Chevron icon positioned to the right of the container visually distinguishes this as a Select input.
+4. **Single Option:** This dropdown down displays different option but allowing you to only select one. 
+5. **Multiple Option:** This dropdown down displays different optiona and allows you to select multiple options. 
+
 ## Design Guidelines
 
 Dropdown allows users to choose one option from a list of items in a Menu.
