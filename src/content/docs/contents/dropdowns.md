@@ -4,7 +4,18 @@ description: Lorem ipsum dolor sit amet - 2
 ---
 Modals are interactive pop-ups reserved for situations which require immediate attention.
 
+
+
+## Annotations
+
 ![](/modal.svg)
+
+1. **Heading** : Heading should display the title of the content or task.
+2. **Body**: Modals contain many different types of content in the body. Typical types of content include media, alerts, dialogs, and/or task-oriented flows.
+3. **Close “X” Icon**: Users must be able to intentionally dismiss a modal. This icon inherits styling and interactions from our Tertiary Icon-Only Button Variant.
+4. **In-line Buttons** : Action should be at the bottom of the container when used. There are multiple alignments available for use; Left (Default), Center, Full Width & Full Width Stacked, or Right aligned.
+
+
 
 ## Design Guidelines
 
