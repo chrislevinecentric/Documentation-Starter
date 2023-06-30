@@ -1,9 +1,15 @@
 ---
 title: Check Box
 ---
-## Annotations 
+## Annotations
 
 ![](/checkbox.svg)
+
+1. **Form Field Label:** The Form Field Label describes all of the checkboxes in the checkbox group and functions as a header.
+2. **Checkbox:** Checkboxes are aligned close to its label or by itself in some cases.
+3. **Checkbox Label:** Checkbox Labels give information about what to select or unselect.
+
+
 
 ## Design Guidelines
 
