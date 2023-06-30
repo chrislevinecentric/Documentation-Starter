@@ -4,7 +4,18 @@ description: Lorem ipsum dolor sit amet - 2
 ---
 Allows the user to alternate between related views while remaining in the same context.
 
+
+
+## Annotations 
+
 ![](/tabs.svg)
+
+
+
+1. **Active Tab**: The tab that is selected and currently displaying it's contents.
+2. **Active Chip**: Highlights the active tab.
+3. **Inactive Tab**: All of the other unselected, available tabs.
+4. **Divider Line**: Spans the width of the entire tabs container separating the tab set from its contents.
 
 ## Design Guidelines
 
