@@ -4,7 +4,16 @@ description: Lorem ipsum dolor sit amet - 2
 ---
 Text Areas enable users to input and edit text across multiple lines.
 
+## Annotations 
+
 ![](/text-area.svg)
+
+
+
+1. **Label:** Title of the Text Area.
+2. **Placeholder/Body Text:** Placeholder text is optional and shows an example of how the text is used.
+3. **Expand Icon:** Lets the user expand the box by pulling down
+4. **Close (x) Icon:** Lets the user delete text area. Usually pops up when in an error state. 
 
 ## Design Guidelines
 
