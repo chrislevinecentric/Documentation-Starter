@@ -2,13 +2,19 @@
 title: Buttons
 description: Lorem ipsum dolor sit amet - 2
 ---
-## Design Guidelines
-
 Buttons highlight actions available on a screen.
 
+## Anatomy
+
+![](/buttons.svg)
+
+1. **Button**: Houses the contents of the Button. Visual appearance differs based on button type.
+2. **Label**: Specific text describing the action. 
+3. **Icon (Conditional)**: Supplementary visual indicator that can be positioned alone or added to the left or right of the label. 
+
+## Design Guidelines
+
 * Actions should be clearly indicated by buttons.
-
-
 * Buttons should be easily noticeable, identifiable, and specific.
 * Ensure that buttons appear and behave in a way that suggests they can be clicked.
 * Icons can be used alone or positioned to the left or right of the label. When utilized, the icon should convey the purpose of the button.
