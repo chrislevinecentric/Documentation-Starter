@@ -4,7 +4,7 @@ description: Lorem ipsum dolor sit amet - 2
 ---
 Buttons highlight actions available on a screen.
 
-## Anatomy
+## Annotations
 
 ![](/buttons.svg)
 
