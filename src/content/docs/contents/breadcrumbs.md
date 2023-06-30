@@ -15,7 +15,7 @@ Breadcrumbs serve as a supplementary navigation tool enabling users to effortles
 ## Design Guidelines
 
 * Breadcrumbs assist users in maintaining their location and orientation while navigating through the hierarchical structure of a website's information. 
-* They should be employed as a supplementary tool to the primary or main navigation, rather than as a replacement. 
+* They should be used as a supplementary tool to the primary or main navigation, rather than as a replacement. 
 * Every breadcrumb trail begins with a root page, from which subsequent pages can be traced back. 
 * The utilization of breadcrumbs enables users to easily backtrack and jump to previous pages when needed.
 
@@ -34,8 +34,6 @@ Breadcrumbs serve as a supplementary navigation tool enabling users to effortles
 * Consider utilizing alternative components for primary navigation. Breadcrumbs serve as a supplementary feature for global or primary navigation.
 * If your hierarchy is flat and consists of only 1 or 2 levels, it may be advisable to remove the use of Breadcrumbs entirely.
 
-
-
-## Additional Information 
+## Additional Information
 
 Breadcrumb titles should inherit the same name as the page or product title the user has navigated to.
