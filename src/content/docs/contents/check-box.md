@@ -12,7 +12,7 @@ title: Check Box
 ## Design Guidelines
 
 * Checkboxes enable users to choose one or multiple options. Selected options are visually represented by a white check with a blue fill. Clicking on a selected option again will deselect it.
-* Each Checkbox corresponds to a specific value. The label for each selection should concisely describe the choice. For more information on writing Checkbox labels, refer to the provided guidelines.
+* Each Checkbox corresponds to a specific value. The label for each selection should concisely describe the choice. 
 
 ## When to use
 
@@ -24,11 +24,7 @@ Utilize checkboxes when users can choose none, one, or multiple options from a p
 * When you have a list of options ranging from 2 to 7, it's advisable to utilize Radio Buttons or a Select to allow users to choose a single option. However, if you have a large or unknown number of list items, employing a Prompt would be beneficial. 
 * Prompts offer search capabilities and folders, providing users with the ability to browse through options. Additionally, Prompts can be configured to support either single or multi-select functionality.
 
-
-
-## Additional Information 
-
-
+## Additional Information
 
 * Form Field Labels are written in title case.
 * The Checkbox Label for each individual selection are kept as concise as possible and written in sentence case.
