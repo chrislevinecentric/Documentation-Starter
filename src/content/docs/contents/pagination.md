@@ -6,7 +6,9 @@ Pagination enables users to easily explore extensive content or data that is dis
 
 ![](/pagination.svg)
 
-
+1. **Navigational Controls**: Allow users to navigate through available pages.
+2. **Page Numbers**: Each page has its own page number
+3. **Additional Details**: Communicates the number of pages and total number of items. Page numbers are separated by an en dash. The word “pages” is customizable.
 
 ## Design Guidelines
 
