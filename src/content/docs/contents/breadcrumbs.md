@@ -33,3 +33,9 @@ Breadcrumbs serve as a supplementary navigation tool enabling users to effortles
 
 * Consider utilizing alternative components for primary navigation. Breadcrumbs serve as a supplementary feature for global or primary navigation.
 * If your hierarchy is flat and consists of only 1 or 2 levels, it may be advisable to remove the use of Breadcrumbs entirely.
+
+
+
+## Additional Information 
+
+Breadcrumb titles should inherit the same name as the page or product title the user has navigated to.
