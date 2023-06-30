@@ -4,8 +4,6 @@ description: Lorem ipsum dolor sit amet - 2
 ---
 Modals are interactive pop-ups reserved for situations which require immediate attention.
 
-
-
 ## Annotations
 
 ![](/modal.svg)
@@ -14,8 +12,6 @@ Modals are interactive pop-ups reserved for situations which require immediate a
 2. **Body**: Modals contain many different types of content in the body. Typical types of content include media, alerts, dialogs, and/or task-oriented flows.
 3. **Close “X” Icon**: Users must be able to intentionally dismiss a modal. This icon inherits styling and interactions from our Tertiary Icon-Only Button Variant.
 4. **In-line Buttons** : Action should be at the bottom of the container when used. There are multiple alignments available for use; Left (Default), Center, Full Width & Full Width Stacked, or Right aligned.
-
-
 
 ## Design Guidelines
 
@@ -33,3 +29,14 @@ Modals are interactive pop-ups reserved for situations which require immediate a
   Refrain from using Modals to showcase information that is intricate or dense, such as Tables or Multi-View Containers.
 
   If you need to convey the status or confirmation of the application process to the user, consider using a Toast.
+
+
+
+## Additional Information 
+
+
+
+* Phrase confirmations as yes or no questions.
+* In the title of the dialog, be clear about what will happen if the user continues. (“Delete software request?”)
+* Supplemental text should provide more information, not just reword the title.
+* Tonally, your language should be approachable and clear. Try reading your message out loud, and if it sounds unnatural to say, try rewriting.
