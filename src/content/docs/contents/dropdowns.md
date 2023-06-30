@@ -30,13 +30,9 @@ Modals are interactive pop-ups reserved for situations which require immediate a
 
   If you need to convey the status or confirmation of the application process to the user, consider using a Toast.
 
-
-
-## Additional Information 
-
-
+## Additional Information
 
 * Phrase confirmations as yes or no questions.
 * In the title of the dialog, be clear about what will happen if the user continues. (“Delete software request?”)
 * Supplemental text should provide more information, not just reword the title.
-* Tonally, your language should be approachable and clear. Try reading your message out loud, and if it sounds unnatural to say, try rewriting.
+* The language should be approachable and clear. Try reading your message out loud, and if it sounds unnatural to say, try rewriting.
