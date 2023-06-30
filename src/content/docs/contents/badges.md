@@ -11,8 +11,6 @@ Badges serve the purpose of visually marking items on a page to facilitate swift
 1. **Pill Label:** Describes the Pill meaning or input.
 2. **3. Icon:** (Optional) Displayed before the Pill label to provide an additional supporting visual. Icons displayed after the label are reserved for Removable Pills to further convey the action. For Removable Pills, the icon becomes the click or touch target.
 
-
-
 ## Design Guidelines
 
 * To show and label chosen inputs that are eligible for addition and removal.
@@ -32,3 +30,9 @@ Badges serve the purpose of visually marking items on a page to facilitate swift
 ## When to use something else
 
 Exercise caution when concealing vital information or adding an additional click for users who are expected to peruse all the content. It is possible that content concealed in a collapsed state may go unread or unnoticed by users right away.
+
+
+
+## Additional Info
+
+Badge labels should be kept simple, short and concise. They’re great for organizing and providing cues for what’s been selected, but you can’t fit a lot into that space. Max-width is defined by the width of the parent container of the Badge plus padding.
