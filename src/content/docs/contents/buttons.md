@@ -8,8 +8,8 @@ Buttons highlight actions available on a screen.
 
 ![](/buttons.svg)
 
-1. **Button**: Houses the contents of the Button. Visual appearance differs based on button type.
-2. **Label**: Specific text describing the action. 
+1. **Primary Button:** A button that is discoverable and used as the most important action to take on a page.
+2. **Secondary Button:** A button or set of buttons that is less important than the Primary Button.
 3. **Icon (Conditional)**: Supplementary visual indicator that can be positioned alone or added to the left or right of the label. 
 
 ## Design Guidelines
