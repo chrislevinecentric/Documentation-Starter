@@ -4,13 +4,9 @@ description: Lorem ipsum dolor sit amet - 2
 ---
 Breadcrumbs serve as a supplementary navigation tool enabling users to effortlessly track and retain a clear sense of their location while navigating across various pages, folders, or files.
 
-## Anatomy
-
-
+## Annotations
 
 ![](/breadcrumbs.svg)
-
-
 
 1. **Root Page**: The root page grounds the trail as users navigate to subsequent pages.
 2. **Breadcrumb Pages**: Each page has its own label and becomes clickable.
