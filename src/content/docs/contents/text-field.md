@@ -6,6 +6,10 @@ description: Lorem ipsum dolor sit amet - 2
 
 ![](/text-field.svg)
 
+1. **Label:** Title of the Text Area.
+2. **Placeholder/Body Text:** Placeholder text is optional and shows an example of how the text is used.
+3. **Close (x) Icon:** Lets the user delete text area. Usually pops up when in an error state. 
+
 ## Design Guidelines
 
 * Text inputs are limited to accepting words, numbers, and characters.
